@@ -1,0 +1,61 @@
+backend:
+  name: github
+  repo: garubasro/Nova_farma
+  branch: main
+
+media_folder: "static/img"
+public_folder: "/img"
+
+# Slovenský jazyk pre CMS rozhranie
+locale: "sk"
+
+collections:
+  - name: "posts"
+    label: "Články zo záhrady"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Nadpis", name: "title", widget: "string" }
+      - { label: "Dátum publikovania", name: "date", widget: "datetime" }
+      - { label: "Náhľadový obrázok", name: "cover", widget: "object", required: false, fields: [
+          { label: "Obrázok", name: "image", widget: "image", required: false },
+          { label: "Alt text", name: "alt", widget: "string", required: false }
+        ]}
+      - { label: "Krátky popis (pre náhľad)", name: "description", widget: "text", required: false }
+      - { label: "Kategória", name: "categories", widget: "select", multiple: true, required: false,
+          options: ["pole", "foliovnik", "technika", "urodna sprava", "nehody a skody"] }
+      - { label: "Tagy", name: "tags", widget: "list", required: false }
+      - { label: "Obsah článku", name: "body", widget: "markdown" }
+
+  - name: "zelenina"
+    label: "Zelenina (čo pestujeme)"
+    folder: "content/zelenina"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Názov zeleniny", name: "title", widget: "string" }
+      - { label: "Aktuálne dostupná?", name: "dostupna", widget: "boolean", default: false }
+      - { label: "Obrázok", name: "cover", widget: "object", required: false, fields: [
+          { label: "Obrázok", name: "image", widget: "image", required: false }
+        ]}
+      - { label: "Popis", name: "body", widget: "markdown" }
+      - { label: "Orientačná cena", name: "cena", widget: "string", required: false,
+          hint: "Napr. '2 €/zväzok' alebo 'podľa dohody'" }
+      - { label: "Poradie zobrazenia", name: "weight", widget: "number", required: false }
+
+  - name: "pages"
+    label: "Stránky"
+    files:
+      - label: "O nás"
+        name: "o-nas"
+        file: "content/o-nas.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - { label: "Obsah", name: "body", widget: "markdown" }
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "content/kontakt.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - { label: "Obsah", name: "body", widget: "markdown" }

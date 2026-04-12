@@ -1,0 +1,114 @@
+baseURL: "https://www.mestskafarmaba.sk/"
+languageCode: "sk-SK"
+title: "Mestská Farma Bratislava"
+theme: "PaperMod"
+paginate: 8
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  env: production
+  title: "Mestská Farma Bratislava"
+  description: "Čerstvá zelenina priamo z bratislavského poľa. Pestujeme prírodným spôsobom, bez chémie."
+  keywords: [zelenina, bratislava, farma, čerstvá zelenina, lokálne potraviny, predaj z dvora]
+  author: "Mestská Farma Bratislava"
+  images: ["/img/mydvaja.jpg"]
+
+  # PaperMod display mode
+  defaultTheme: light
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # Home page profile mode
+  profileMode:
+    enabled: true
+    title: "Mestská Farma Bratislava"
+    subtitle: |
+      Pestujeme čerstvú zeleninu priamo v Bratislave — bez chémie, s láskou k pôde.
+      Predaj z dvora, osobný odber po dohode.
+    imageUrl: "/img/mydvaja.jpg"
+    imageWidth: 140
+    imageHeight: 140
+    imageTitle: "Mestskí farmári"
+    buttons:
+      - name: "📲 Napísať na WhatsApp"
+        url: "https://wa.me/421902192892?text=Ahoj%2C+mám+záujem+o+čerstvú+zeleninu"
+      - name: "🥬 Čo pestujeme"
+        url: "/zelenina/"
+
+  # Social icons in footer
+  socialIcons:
+    - name: "whatsapp"
+      url: "https://wa.me/421902192892"
+    - name: "instagram"
+      url: "https://www.instagram.com/mestska_farma"
+    - name: "facebook"
+      url: "https://www.facebook.com/MestskaFarma"
+
+  # Cover images in post list
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  # Edit links (disabled)
+  editPost:
+    disabled: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: "Zo záhrady"
+      url: /posts/
+      weight: 10
+    - identifier: zelenina
+      name: "🥬 Zelenina"
+      url: /zelenina/
+      weight: 20
+    - identifier: onas
+      name: "O nás"
+      url: /o-nas/
+      weight: 30
+    - identifier: kontakt
+      name: "📲 Kontakt"
+      url: /kontakt/
+      weight: 40
+
+# Taxonomy
+taxonomies:
+  category: categories
+  tag: tags
+
+# Output formats for Decap CMS
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
