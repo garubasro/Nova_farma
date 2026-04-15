@@ -27,50 +27,14 @@
 }
 
 /* Custom social ikony - rovnaka velkost ako FB a Instagram */
-.widget__social-item svg {
-  width: 16px !important;
-  height: 16px !important;
-  vertical-align: middle;
-}
-
-/* Custom social ikony - rovnaka velkost ako FB a Instagram */
 .widget-social__link-icon {
   width: 16px !important;
   height: 16px !important;
 }
 
-/* Hamburger menu - viditelnejsi na mobile */
-.menu__btn {
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  padding: 8px;
-}
-
-.menu__btn-icon,
-.menu__btn-icon::before,
-.menu__btn-icon::after {
-  background: #fff !important;
-  display: block;
-  height: 3px !important;
-  width: 26px !important;
-  border-radius: 2px;
-  transition: all 0.3s;
-}
-
-.menu__btn-icon::before,
-.menu__btn-icon::after {
-  content: '';
-  margin-top: 6px;
-}
-
-/* Hamburger menu - tri viditelne ciarky */
-.menu__btn {
-  padding: 8px !important;
-}
-
+/* Hamburger menu - tmave ciarky na bielom pozadi loga */
 .menu__btn-title {
-  background: #fff !important;
+  background: #333 !important;
   display: block !important;
   height: 3px !important;
   width: 28px !important;
@@ -81,7 +45,7 @@
 .menu__btn-title::before,
 .menu__btn-title::after {
   content: '' !important;
-  background: #fff !important;
+  background: #333 !important;
   display: block !important;
   height: 3px !important;
   width: 28px !important;
@@ -96,4 +60,9 @@
 
 .menu__btn-title::after {
   top: 8px !important;
+}
+
+.menu__btn {
+  padding: 10px !important;
+  margin: 4px !important;
 }
