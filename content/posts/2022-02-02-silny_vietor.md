@@ -2,7 +2,6 @@
 title: "Silný vietor a volanie jari"
 date: 2022-02-02
 thumbnail: "https://garubasro.github.io/Nova_farma/img/mikrohrasok.jpg"
-categories: ["pole, tech"]
 tags: ["NovinkyZpoľa"]
 ---
 

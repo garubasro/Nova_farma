@@ -2,7 +2,6 @@
 title: "Domino efekt"
 date: 2022-02-14
 thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-categories: ["pole"]
 tags: ["NovinkyZpoľa"]
 ---
 

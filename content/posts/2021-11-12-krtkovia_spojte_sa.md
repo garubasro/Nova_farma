@@ -2,7 +2,6 @@
 title: "Krtkovia všetkých krajín, spojte sa?"
 date: 2021-11-12
 thumbnail: "https://garubasro.github.io/Nova_farma/img/nasa-mlada-cvikla.png"
-categories: ["pole"]
 ---
 
 Ako snáď viete, naše políčko obhospodárujeme prírode blízkym spôsobom. Nepoužívame žiadne chemikálie, do pôdy sa snažíme dodať čo najviac organickej hmoty. Dlhé desaťročia do tejto pôdy "súdruhovia" nič nedali, len brali a brali a brali...

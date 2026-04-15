@@ -2,7 +2,6 @@
 title: "Rozširujeme sa"
 date: 2021-04-22
 thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
-categories: ["technika"]
 ---
 
 Teda, akože nie osobne, ale rozširujeme počet produkčných hriadok.

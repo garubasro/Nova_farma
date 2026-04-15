@@ -2,7 +2,6 @@
 title: "Nová zelenina"
 date: 2021-05-12
 thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
-categories: ["pole"]
 ---
 
 Jar je plnom prúde, všetko pučí, raší, zo zeme sa tlačí. Úplna radosť.

@@ -3,7 +3,6 @@ title: "Foliovník (2.časť)"
 date: 2020-12-10
 description: "Stavba profi foliovníka"
 thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-categories: ["technika"]
 ---
 
 To už asi tak býva, že stavať foliovník treba v inom ročnom období, ale inokedy treba zasa pestovať. No čo už.  Konečne v sobotu 5.12.2020 bolo priaznivé počasie, aj slniečko svietilo a my sme sa vrhli na naťahovanie fólie. Po predchádzajúcich skúsenostiach s prepaľovaním fólie sme celú konštrukciu oblepili reflexnou fóliou. 

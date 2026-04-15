@@ -3,7 +3,6 @@ title: "Nechcená návšteva"
 date: 2020-12-02
 description: "Krádež na poli"
 thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-categories: ["technika"]
 ---
 
 V nedeľu sme šli kuknúť na pole. Len tak, nič na práci, bolo pekne. V sobotu sme tam neboli, boli iné povinnosti, že dáme si len takú prechádzku po okoli....

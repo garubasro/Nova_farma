@@ -3,7 +3,6 @@ title: "Nový foliovník"
 date: 2020-11-22
 description: "Stavba profi foliovníka"
 thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-categories: ["technika"]
 ---
 
 Zistili sme, že máme málo plochy na pestovanie. Našťastie netreba pole je dosť veľké, stačí ho len lepšie využiť. Rozhodli sme sa, že postavíme ďaľší fóliovník.

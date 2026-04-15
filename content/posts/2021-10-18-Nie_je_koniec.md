@@ -2,7 +2,6 @@
 title: "Nie je všetkému koniec"
 date: 2021-10-18
 thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
-categories: ["tech, pole"]
 ---
 
 Tí čo vedia, vedia, a tí, ktorí nevedia a chcú vedieť, sa dozvedia.... že jeseň neznamená koniec prác, a že to nie je len o odumieraní rastlín. A že to nie je len o zbere.

@@ -2,7 +2,6 @@
 title: "Jeseň ako jar?"
 date: 2021-10-11
 thumbnail: "https://garubasro.github.io/Nova_farma/img/cukety.png"
-categories: ["pole"]
 ---
 
 Troch mätúci nadpis, áno. Avšak keď som dnes na poli chrúmal čersvté hrášky, a bolo nízke chladné slniečko, tak som si tak pripadal.

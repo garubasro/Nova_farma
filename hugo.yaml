@@ -30,7 +30,7 @@ params:
   readmore: false
   authorbox: false
   pager: true
-  post_meta: ["date", "categories"]
+  post_meta: ["date"]
   mainSections: ["posts"]
   highlight_color: "#4a7c3f"
 
@@ -46,7 +46,7 @@ params:
     home: "right"
     list: "right"
     single: false
-    widgets: ["search", "recent", "categories", "social"]
+    widgets: ["search", "recent", "social"]
 
   widgets:
     recent_num: 5
@@ -76,7 +76,6 @@ menu:
       weight: 40
 
 taxonomies:
-  category: categories
   tag: tags
 
 outputs:

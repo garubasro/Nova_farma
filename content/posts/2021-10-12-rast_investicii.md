@@ -2,7 +2,6 @@
 title: "Rast investícií"
 date: 2021-10-12
 thumbnail: "https://garubasro.github.io/Nova_farma/img/rukola_tanier.jpg"
-categories: ["pole"]
 ---
 
 Nie, nebojte sa, nebudem tu splietať nič o finančných aktivitách, špekuláciach alebo portfóliach.

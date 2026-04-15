@@ -2,7 +2,6 @@
 title: "Čo sa chystá? Voňavé goliere?Zelení vojaci? Krivý gazda? Poštársky šalát?"
 date: 2021-04-28
 thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
-categories: ["pole"]
 ---
 
 Pokračujeme krátkou "reportážou" z farmy. 

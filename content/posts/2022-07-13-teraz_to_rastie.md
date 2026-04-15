@@ -2,7 +2,6 @@
 title: "Omyl! Až teraz to rastie. Či?"
 date: 2022-07-13
 thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-categories: ["pole"]
 ---
 
 Prešlo presne 38 dní a fóliovník sa zmenil na džungľu. Neveríte? Porovnajte fotky z 5/6/22 a z 13/7/22

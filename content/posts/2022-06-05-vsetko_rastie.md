@@ -2,7 +2,6 @@
 title: "Všetko rastie"
 date: 2022-06-05
 thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-categories: ["pole"]
 tags: ["NovinkyZpoľa", "Porovnanie"]
 ---
 

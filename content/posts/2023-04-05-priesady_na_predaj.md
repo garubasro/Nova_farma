@@ -2,7 +2,6 @@
 title: "Adoptuj si priesady"
 date: 2023-04-05
 thumbnail: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
-categories: ["technika"]
 tags: ["NovinkyZpoľa", "Porovnanie"]
 ---
 

@@ -2,7 +2,6 @@
 title: "Ručná sejačka, mrkva v zime?"
 date: 2021-02-03
 thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-categories: ["technika"]
 ---
 
 Pred pár rokmi som si kúpil sejačku, podobnú ako sa kedysi používala, lenže už kovovú. 
