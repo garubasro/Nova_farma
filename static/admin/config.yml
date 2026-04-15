@@ -2,11 +2,13 @@ backend:
   name: github
   repo: garubasro/Nova_farma
   branch: main
+  auth_endpoint: https://sveltia-cms-auth.pages.dev/auth
+  base_url: https://sveltia-cms-auth.pages.dev
+  auth_scope: repo
 
 media_folder: "static/img"
-public_folder: "/img"
+public_folder: "https://garubasro.github.io/Nova_farma/img"
 
-# Slovenský jazyk pre CMS rozhranie
 locale: "sk"
 
 collections:
@@ -17,15 +19,26 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Nadpis", name: "title", widget: "string" }
-      - { label: "Dátum publikovania", name: "date", widget: "datetime" }
-      - { label: "Náhľadový obrázok", name: "cover", widget: "object", required: false, fields: [
-          { label: "Obrázok", name: "image", widget: "image", required: false },
-          { label: "Alt text", name: "alt", widget: "string", required: false }
-        ]}
+      - { label: "Dátum publikovania", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD.MM.YYYY", time_format: false }
       - { label: "Krátky popis (pre náhľad)", name: "description", widget: "text", required: false }
-      - { label: "Kategória", name: "categories", widget: "select", multiple: true, required: false,
-          options: ["pole", "foliovnik", "technika", "urodna sprava", "nehody a skody"] }
-      - { label: "Tagy", name: "tags", widget: "list", required: false }
+      - label: "Titulný obrázok"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Obrázok", name: "image", widget: "image", required: false }
+          - { label: "Popis obrázka", name: "alt", widget: "string", required: false }
+      - label: "Kategória"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - { label: "Pole a záhrada", value: "pole" }
+          - { label: "Fóliovník", value: "foliovnik" }
+          - { label: "Technika", value: "technika" }
+          - { label: "Úrodná správa", value: "urodna-sprava" }
+          - { label: "Nehody a škody", value: "nehody" }
       - { label: "Obsah článku", name: "body", widget: "markdown" }
 
   - name: "zelenina"
@@ -36,12 +49,14 @@ collections:
     fields:
       - { label: "Názov zeleniny", name: "title", widget: "string" }
       - { label: "Aktuálne dostupná?", name: "dostupna", widget: "boolean", default: false }
-      - { label: "Obrázok", name: "cover", widget: "object", required: false, fields: [
-          { label: "Obrázok", name: "image", widget: "image", required: false }
-        ]}
+      - label: "Obrázok"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Obrázok", name: "image", widget: "image", required: false }
       - { label: "Popis", name: "body", widget: "markdown" }
-      - { label: "Orientačná cena", name: "cena", widget: "string", required: false,
-          hint: "Napr. '2 €/zväzok' alebo 'podľa dohody'" }
+      - { label: "Orientačná cena", name: "cena", widget: "string", required: false, hint: "Napr. '2 €/zväzok' alebo 'podľa dohody'" }
       - { label: "Poradie zobrazenia", name: "weight", widget: "number", required: false }
 
   - name: "pages"
