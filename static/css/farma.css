@@ -1,16 +1,11 @@
 /* ===== Mestská Farma – vlastné štýly pre Mainroad ===== */
 
-/* Farba zvýraznenia - zelená farmy */
-:root {
-  --highlight-color: #4a7c3f;
-}
-
 /* Sticky WhatsApp tlačidlo */
 .whatsapp-sticky {
   position: fixed;
   bottom: 1.5rem;
   right: 1.5rem;
-  z-index: 999;
+  z-index: 9999;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,4 +26,5 @@
   fill: white;
   width: 28px;
   height: 28px;
+  display: block;
 }

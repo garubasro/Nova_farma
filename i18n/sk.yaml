@@ -1,37 +1,34 @@
-# Mainroad i18n – slovenčina
+# Mainroad i18n – slovenčina (správne kľúče z en.yaml)
 
-- id: widget_search_title
-  translation: "Hľadať"
-
-- id: widget_recent_title
+- id: recent_title
   translation: "Posledné články"
 
-- id: widget_categories_title
+- id: categories_title
   translation: "Kategórie"
 
-- id: widget_taglist_title
+- id: tags_title
   translation: "Štítky"
 
-- id: widget_social_title
+- id: social_title
   translation: "Kontakt"
 
-- id: widget_languages_title
+- id: languages_title
   translation: "Jazyk"
 
-- id: post_navigation_prev
+- id: search_placeholder
+  translation: "Hľadať..."
+
+- id: post_nav_prev
   translation: "Predchádzajúci"
 
-- id: post_navigation_next
+- id: post_nav_next
   translation: "Nasledujúci"
 
-- id: breadcrumb_home
-  translation: "Domov"
+- id: read_more
+  translation: "Čítať ďalej"
 
-- id: pagination_prev
-  translation: "« Staršie"
-
-- id: pagination_next
-  translation: "Novšie »"
+- id: authorbox_name
+  translation: "Autor"
 
 - id: 404_title
   translation: "404. Stránka nenájdená"
@@ -41,15 +38,3 @@
 
 - id: 404_linktext
   translation: "hlavnú stránku"
-
-- id: read_more
-  translation: "Čítať ďalej"
-
-- id: noposts_warning_title
-  translation: "Zatiaľ nemáte žiadne články!"
-
-- id: authorbox_name
-  translation: "Autor"
-
-- id: post_meta_posted_in
-  translation: "Kategórie"
