@@ -13,4 +13,6 @@ Fóliaky sú už zabehnuté, nové hriadky osadene priesadami. Závlaha sa spú�
 
 A vôbec, pozrite si pohľad z Vodnej veže.
 
-{{< PGvideo video="/img/Pole.mp4" >}}
+<video controls width="100%" style="border-radius:8px">
+  <source src="/img/Pole.mp4" type="video/mp4">
+</video>
