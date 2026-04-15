@@ -2,14 +2,14 @@
 title: "Rast investícií"
 date: 2021-10-12
 cover:
-  image: "/img/rukola_tanier.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/rukola_tanier.jpg"
   alt: "Rast investícií"
 categories: ["pole"]
 ---
 
 Nie, nebojte sa, nebudem tu splietať nič o finančných aktivitách, špekuláciach alebo portfóliach.
 
-![batat_na_vahe](/img/batat_na_vahe.jpeg)
+![batat_na_vahe](https://garubasro.github.io/Nova_farma/img/batat_na_vahe.jpeg)
 Koncom zimy som kúpil 2 (slovom DVE) stredne hľuzy batátu. Postupne som vypestoval sadenice a niekedy v polovici mája sme na hriadky vysadili cca 15 sadeníc.
 
 Včera ráno už bola vňať batátov ošlahnutá miernym mrazíkom - najvyšší čas ich vybrať. Urodilo sa cca 30 kg. Jeden najväčší "macek" je na fotke.

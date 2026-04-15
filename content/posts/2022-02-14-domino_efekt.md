@@ -2,7 +2,7 @@
 title: "Domino efekt"
 date: 2022-02-14
 cover:
-  image: "/img/redkovky.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
   alt: "Domino efekt"
 categories: ["pole"]
 tags: ["NovinkyZpoľa"]
@@ -18,4 +18,4 @@ Alebo nie?
 
 Sledujte nás, dozviete sa viac. Nabudúce.
 
-![domino-vysadba](/img/domino-vysadba.jpg)
+![domino-vysadba](https://garubasro.github.io/Nova_farma/img/domino-vysadba.jpg)

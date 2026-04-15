@@ -2,7 +2,7 @@
 title: "Všetko rastie"
 date: 2022-06-05
 cover:
-  image: "/img/redkovky.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
   alt: "Všetko rastie"
 categories: ["pole"]
 tags: ["NovinkyZpoľa", "Porovnanie"]
@@ -13,9 +13,9 @@ Už dlhšie sme nič nepísali. Dôvod je jednoduchý. Nestíhame. Všetko rasti
 Lebo zase na druhej strane, chemické **JED**lo by sme si mohli ísť kúpiť do reťazca.
 
 S blížiacim sa letom a stúpajúcimi teplotami šaláty idú pomaly a isto do kvetu. Ale my sme to čakali a vysievame ďaľšiu generáciu.
-![rastúca cuketa](/img/rastuca-cuketa.png)
-![mlada cvikla](/img/nasa-mlada-cvikla.png)
-![uhorky-vo-foliaku.jpg](/img/uhorky-vo-foliaku.jpg)
+![rastúca cuketa](https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png)
+![mlada cvikla](https://garubasro.github.io/Nova_farma/img/nasa-mlada-cvikla.png)
+![uhorky-vo-foliaku.jpg](https://garubasro.github.io/Nova_farma/img/uhorky-vo-foliaku.jpg)
 Cukety sa už začínajú ukazovať. O týždeň, dva, to vypukne vo veľkom. 
 
 Uhorky sú už v teplúčku, špagáty nachystané, už len nech sa ťahajú.

@@ -2,7 +2,7 @@
 title: "Už máme leto"
 date: 2021-07-02
 cover:
-  image: "/img/salat2410212.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/salat2410212.jpg"
   alt: "Už máme leto"
 categories: ["pole"]
 ---
@@ -15,5 +15,5 @@ Takže je po šaláte, ale nie je to koniec sveta :)
 
 Už sa nám núkajú krásne cuketky. Rôzne druhy, rôzne farby.
 
-![cukety](/img/cukety.png)
+![cukety](https://garubasro.github.io/Nova_farma/img/cukety.png)
 Cesnak je už pozbieraný, suší sa v tieni a v prievane.

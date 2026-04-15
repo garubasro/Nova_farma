@@ -2,7 +2,7 @@
 title: "Nie je všetkému koniec"
 date: 2021-10-18
 cover:
-  image: "/img/salat2410214.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
   alt: "Nie je všetkému koniec"
 categories: ["tech, pole"]
 ---
@@ -14,12 +14,12 @@ Ale aj o výsadbe. O príprave/zakladaní úrody na daľší rok.
 Dnes sme sadili cesnak. Lebo cesnak sa sadí, ale da sa aj siať. K siatiu som sa (ešte tento rok) nedostal, hoci semienka som si vzorne v lete pozbieral. Ale o inom som chcel. 
 
 O VÝSADBE cesnaku.
-![roker](/img/roker.jpg "Dá sa to na rokera...")
-![Hrable na značenie](/img/hrabloznacky.jpg "....ale takto to ide lepšie")
-![rozostupy](/img/rozostupy.jpg "Také čiarky načiaram, laťkou rozostupy udržím, dierky narobím.")
-![jamky](/img/jamky.jpg "Tieto dierky su také akurát")
-![nachystane](/img/nachystane.jpg "A ked je všetko nachystané...")
-![cesnakove strucky](/img/cesnakovestrucky.jpg "...pripravené strúčiky POSADÍM")
+![roker](https://garubasro.github.io/Nova_farma/img/roker.jpg "Dá sa to na rokera...")
+![Hrable na značenie](https://garubasro.github.io/Nova_farma/img/hrabloznacky.jpg "....ale takto to ide lepšie")
+![rozostupy](https://garubasro.github.io/Nova_farma/img/rozostupy.jpg "Také čiarky načiaram, laťkou rozostupy udržím, dierky narobím.")
+![jamky](https://garubasro.github.io/Nova_farma/img/jamky.jpg "Tieto dierky su také akurát")
+![nachystane](https://garubasro.github.io/Nova_farma/img/nachystane.jpg "A ked je všetko nachystané...")
+![cesnakove strucky](https://garubasro.github.io/Nova_farma/img/cesnakovestrucky.jpg "...pripravené strúčiky POSADÍM")
 
 
 Pre milovníkov detailov:

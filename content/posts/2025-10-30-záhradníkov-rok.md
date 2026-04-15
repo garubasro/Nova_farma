@@ -2,7 +2,7 @@
 title: "Záhradníkov rok"
 date: 2025-10-30
 cover:
-  image: "/img/kel.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/kel.jpg"
   alt: "Záhradníkov rok"
 categories: ["technika"]
 tags: ["NovinkyZpoľa"]
@@ -16,4 +16,4 @@ Stále zbierame vynikajúci kel. S chaldnejším počasím je chutnejší.
 Kelové čipsy su mňam. 
 
 
-![Kel](/img/kel.jpg)
+![Kel](https://garubasro.github.io/Nova_farma/img/kel.jpg)

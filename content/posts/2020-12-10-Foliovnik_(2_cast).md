@@ -3,7 +3,7 @@ title: "Foliovník (2.časť)"
 date: 2020-12-10
 description: "Stavba profi foliovníka"
 cover:
-  image: "/img/contact-bg.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
   alt: "Foliovník (2.časť)"
 categories: ["technika"]
 ---
@@ -14,4 +14,4 @@ Ostávala hlavná časť foliovníka. Vďaka vetríku sa nám podarilo plachtu n
 Ešte dnes mám vyťahané ruky. Ja som držala fóliu a manžel hádzal hlinu. Jedna strana bola fajn, ale keď vidíte ako si vietor pohráva s druhým koncom, to už taká sranda nie je. Ale podarilo sa. Fotka je o pár dní neskôr. V ten deň nebolo dosť síl ešte aj fotiť.
 
 
-![foliovnik](/img/foliovnik.jpeg)
+![foliovnik](https://garubasro.github.io/Nova_farma/img/foliovnik.jpeg)

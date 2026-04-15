@@ -2,7 +2,7 @@
 title: "Adoptuj si priesady"
 date: 2023-04-05
 cover:
-  image: "/img/priesadky3.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
   alt: "Adoptuj si priesady"
 categories: ["technika"]
 tags: ["NovinkyZpoľa", "Porovnanie"]
@@ -16,8 +16,8 @@ Priesada za EUR 0,40.
 
 Možný aj mix odrôd.
 
-![Arctic King](/img/priesada_arctic_king.jpg)
-![Cervený listový](/img/priesada_cerveny_listovy.jpg)
-![Priesady 1](/img/priesadky1.jpg)
-![Priesady 2](/img/priesadky2.jpg)
-![Priesady 3](/img/priesadky3.jpg)
+![Arctic King](https://garubasro.github.io/Nova_farma/img/priesada_arctic_king.jpg)
+![Cervený listový](https://garubasro.github.io/Nova_farma/img/priesada_cerveny_listovy.jpg)
+![Priesady 1](https://garubasro.github.io/Nova_farma/img/priesadky1.jpg)
+![Priesady 2](https://garubasro.github.io/Nova_farma/img/priesadky2.jpg)
+![Priesady 3](https://garubasro.github.io/Nova_farma/img/priesadky3.jpg)

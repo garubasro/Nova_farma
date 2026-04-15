@@ -1,5 +1,13 @@
 /* ===== Mestská Farma – vlastné štýly ===== */
 
+/* Profilový obrázok na homepage - bez deformácie */
+.profile img {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 140px !important;
+  height: 140px !important;
+}
+
 /* WhatsApp CTA tlačidlo */
 .whatsapp-cta {
   text-align: center;

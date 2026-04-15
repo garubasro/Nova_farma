@@ -2,7 +2,7 @@
 title: "Mediálna hviezda"
 date: 2021-04-20
 cover:
-  image: "/img/rastuca-cuketa.png"
+  image: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
   alt: "Mediálna hviezda"
 categories: ["technika"]
 ---

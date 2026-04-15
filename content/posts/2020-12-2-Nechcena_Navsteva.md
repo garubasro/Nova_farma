@@ -3,7 +3,7 @@ title: "Nechcená návšteva"
 date: 2020-12-02
 description: "Krádež na poli"
 cover:
-  image: "/img/contact-bg.jpg"
+  image: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
   alt: "Nechcená návšteva"
 categories: ["technika"]
 ---
@@ -22,5 +22,5 @@ Už som len čakal otázku, či to tam naozaj bolo, alebo či som si to neukrado
 Našťastie to nikto nevyslovil.
 
 
-![solar-stojan](/img/solar-stojan.jpg)
-![postrihane-pletivo](/img/rozstrihane-pletivo.jpg)
+![solar-stojan](https://garubasro.github.io/Nova_farma/img/solar-stojan.jpg)
+![postrihane-pletivo](https://garubasro.github.io/Nova_farma/img/rozstrihane-pletivo.jpg)
