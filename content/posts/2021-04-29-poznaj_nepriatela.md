@@ -21,6 +21,8 @@ Takže po zdolaní detektívnej úlohy spojenej s globálnou logisticko-distribu
 
 Čiže takto: 1-2-3-4 a je to.
 
-{{< PGvideo video="/img/Siete.mp4" >}}
+<video controls width="100%" style="border-radius:8px">
+  <source src="/img/Siete.mp4" type="video/mp4">
+</video>
 
 Či troška ťažšie?
