@@ -7,7 +7,7 @@ summary: "kontakt"
 
 ## Napíšte nám
 
-Nemáme otváracie hodiny ani kamenný obchod. Zeleninu vydávame na základe **osobnej dohody** — zavolajte alebo napíšte, dohodneme čas, miesto a množstvo.
+Nemáme otváracie hodiny ani kamenný obchod. Zeleninu vydávame na základe **osobnej dohody** — zavolajte alebo napíšte, dohodneme čas, miesto a množstvo. Sídlime na Trnávke, pestujeme za Vajnormi.
 
 <div class="kontakt-box">
 
