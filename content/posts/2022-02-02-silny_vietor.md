@@ -6,6 +6,7 @@ tags: ["NovinkyZpoľa"]
 ---
 
 Posledný januárový víkend bol náročný. Silný vietor narobil riadnu šarapatu na našom "profi" foliovníku, ktorý sme postavili na jesen 2020 (viac info _[TU](/2020/12/10/Foliovnik_(2_cast)/)_)
+<!--more-->
 
 ![polamanyfoliak1](https://garubasro.github.io/Nova_farma/img/polamanyfoliak1.jpg)
 ![polamanyfoliak2](https://garubasro.github.io/Nova_farma/img/polamanyfoliak2.jpg)

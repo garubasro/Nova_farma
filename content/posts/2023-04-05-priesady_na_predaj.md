@@ -10,6 +10,7 @@ Prepikírované šalátove priesady sa uchytili. Máme ich trošku viac, než sa
 Kto má zájem, máme na predaj.
 Priesada za EUR 0,40. 
 10 kusov za EUR 3,50
+<!--more-->
 
 Možný aj mix odrôd.
 

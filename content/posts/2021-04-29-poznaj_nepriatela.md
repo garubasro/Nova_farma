@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/salaty_v_riadku.jpg"
 ---
 
 Alebo aj tak, že je lepšie problémom predchádzať, než ich riešiť.
+<!--more-->
 
 Keďže máme vysadených vcelku dosť kalerábov, brokolíc a karfiolov, bolo by nepríjemne o ne prísť. Už sme zbadali, že skočky objavili reďkovku Eiszapfen. Uvidíme ako to s ňou dopadne, ale osobne si myslím, že to už ma odpískané.... Ale k veci.
 

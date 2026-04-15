@@ -7,6 +7,7 @@ tags: ["NovinkyZpoľa"]
 
 ### Bôby pekne rasú a už aj kvitnú ###
 Tešíme sa 
+<!--more-->
 
 na úrodu,
 na chuť mladých plodov

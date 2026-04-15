@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
 ---
 
 Prešlo presne 38 dní a fóliovník sa zmenil na džungľu. Neveríte? Porovnajte fotky z 5/6/22 a z 13/7/22
+<!--more-->
 
 ![uhorky vo foliovniku](https://garubasro.github.io/Nova_farma/img/uhorky-vo-foliaku.jpg)
 ![foliovnik v juli](https://garubasro.github.io/Nova_farma/img/foliovnik-jul.jpg)

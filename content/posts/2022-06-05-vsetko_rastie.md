@@ -6,6 +6,7 @@ tags: ["NovinkyZpoľa", "Porovnanie"]
 ---
 
 Už dlhšie sme nič nepísali. Dôvod je jednoduchý. Nestíhame. Všetko rastie, zelenina aj burina. Ale keďže nepoužívame žiadnu chémiu, ostáva ju len ručne plieť.
+<!--more-->
 
 Lebo zase na druhej strane, chemické **JED**lo by sme si mohli ísť kúpiť do reťazca.
 

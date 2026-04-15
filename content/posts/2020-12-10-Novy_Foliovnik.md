@@ -6,6 +6,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
 ---
 
 Zistili sme, že máme málo plochy na pestovanie. Našťastie netreba pole je dosť veľké, stačí ho len lepšie využiť. Rozhodli sme sa, že postavíme ďaľší fóliovník.
+<!--more-->
 
 Objednaný, doručený, už len postaviť.... Z kopy tyčiek, trubiek, matíc, skrutiek po 2.5 hodinách, kde sa vzal, tu sa vzal, na poli fóliovník stál
 

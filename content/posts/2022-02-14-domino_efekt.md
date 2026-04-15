@@ -6,6 +6,7 @@ tags: ["NovinkyZpoľa"]
 ---
 
 Posledných pár dní sa  slniečko usmievalo troška viac.... konečne ... tak sa následne ohrail vzduch ... tak aj hriadky troško obschli .... tak aj farmári viac času na čerstvom vzduchu trávia .... proste taký Domino efekt. A ked už to domino spomínam, tak sme si aj dačo pokreslili.
+<!--more-->
 
 Alebo nie?
 

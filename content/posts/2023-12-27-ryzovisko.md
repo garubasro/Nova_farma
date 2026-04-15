@@ -8,6 +8,7 @@ tags: ["NovinkyZpoľa"]
 ### Budeme pestovať ryžu? ###
 
 Po pár dňoch sedenia doma sme sa vybrali pozrieť pole, ako to tam vyzerá, trocha natiahnuť nohy, nadýchať sa čerstvého zduchu, pokochať sa slniečkom, krásnym pohľadom na diela naších rúk...
+<!--more-->
 
 
 ![Pracovná stanica](https://garubasro.github.io/Nova_farma/img/pracovna_stanica.jpeg)

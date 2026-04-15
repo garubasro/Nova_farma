@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410212.jpg"
 ---
 
 JKaždý si už všimol, že tu máme leto.  Stým sú spojené horúčavy, suchší vzduch. Všimol si to aj náš šalát a vybehol do kvetu. Niektorým jedincom z každého druhu sme dali šancu dorásť až do semena. Snáď to dobre dopadne a na budúci rok budeme mať dosť vhodných semiačok na životaschopné priesadky.
+<!--more-->
 
 Zistili sme, že rastlinky z nami dopestovaných semiačok sú akési živšie, húževnatejšie, lepšie prispôsobené podmienkam. Zatiaľ sa nám to potvrdilo pri šaláte, cibuli a mangolde. Uvidíme, ako dozrejú tento rok....
 

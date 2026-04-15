@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
 ---
 
 Dostalo sa mi veľkej pocty. [Petra Ježeková](http://www.zse.sk/zelena-elektrina-petra-jezekova) (environmentalistka, určite ju poznáte z plagátov ZSE) sa na mňa obrátila s pár otázkami ohľadom "No dig" metódy pre pravidelnú reláciu Čierna Labuť. Tá je vysielaná na Radio_FM v pondelky.
+<!--more-->
 
  Záznam tejto časti je dostupný [tu, v archíve RTVS](https://www.rtvs.sk/radio/archiv/11473/1562422).
 

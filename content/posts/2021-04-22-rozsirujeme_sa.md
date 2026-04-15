@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
 ---
 
 Teda, akože nie osobne, ale rozširujeme počet produkčných hriadok.
+<!--more-->
 
 Fóliaky sú už zabehnuté, nové hriadky osadene priesadami. Závlaha sa spúšťa. 
 

@@ -9,5 +9,6 @@ tags: ["NovinkyZpoľa"]
 S blížiacimi sa Vianocami, klesajúcimi teplotami a takmer stále zamračenými dňami je čestvej zeleniny menej. Ale stále je.
 Prísun čerstvých vitamímov pokračuje aj v takomto čase.
 Dobrú chuť
+<!--more-->
 
 ![Vianočný šalát](https://garubasro.github.io/Nova_farma/img/vianocna-claytonia.jpeg)

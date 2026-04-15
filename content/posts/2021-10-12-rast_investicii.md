@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/rukola_tanier.jpg"
 ---
 
 Nie, nebojte sa, nebudem tu splietať nič o finančných aktivitách, špekuláciach alebo portfóliach.
+<!--more-->
 
 ![batat_na_vahe](https://garubasro.github.io/Nova_farma/img/batat_na_vahe.jpeg)
 Koncom zimy som kúpil 2 (slovom DVE) stredne hľuzy batátu. Postupne som vypestoval sadenice a niekedy v polovici mája sme na hriadky vysadili cca 15 sadeníc.

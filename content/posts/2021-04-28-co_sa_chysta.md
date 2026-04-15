@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
 ---
 
 Pokračujeme krátkou "reportážou" z farmy. 
+<!--more-->
 
 Claytonia už krásne kvitne. Také jemnulinké drobulinké biele kvietky uprostred golierikového lístku. Viacerých z vás prekvapila v šalátovom mixe. Nie, nie je to ani omyl, ani burina. Claytonia v zime ma take srdiečkové lístky, ale teraz sa už menia a sústreďujú pozornosť na kvietok. Takže okrem toho, že chutí a má chrumkavé dužinaté listy, tak aj jemnučko vonia. Skúste si...
 ![Claytonia v kvete](https://garubasro.github.io/Nova_farma/img/claytonia_v_kvete.jpg)

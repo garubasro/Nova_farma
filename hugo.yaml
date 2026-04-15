@@ -27,7 +27,7 @@ params:
   opengraph: true
   schema: true
   twitter_cards: false
-  readmore: false
+  readmore: true
   authorbox: false
   pager: true
   post_meta: ["date"]

@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
 ---
 
 Pred pár rokmi som si kúpil sejačku, podobnú ako sa kedysi používala, lenže už kovovú. 
+<!--more-->
 
 ![kovova_sejacka](https://garubasro.github.io/Nova_farma/img/kovova_sejacka.jpg)
 Super vec, nastavovateľné dierky podľa veľkosti semien.... super na kukuricu, repu, cviklu. Ale nie na mrkvu, reďkovku a iné drobné semiačka. Tak sme sa s ňou rozlúčili, dúfam, že novému majiteľovi dobre poslúži.

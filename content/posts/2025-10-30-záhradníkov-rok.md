@@ -7,6 +7,7 @@ tags: ["NovinkyZpoľa"]
 
 ### Koniec roka, koniec prác ###
 Jeden by povedal, že už je koniec roka. Lenže záhradníkov rok nekončí...
+<!--more-->
 
 Stále zbierame vynikajúci kel. S chaldnejším počasím je chutnejší.
 

@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
 ---
 
 Aj keď je už polovica januára, zima, chlad, mráz.. (ok ten mráz nie je nijak silný, ale mrzlo), obyčajný nevykurovaný foliovnik dokáže poskytnúť rastinám ochrau pred vetrom a snehodažďom. Rastlinky nie sú tak namáhané, listy nehnijú. Dá sa zberať na doplnenie vitamínov. Nie je to na nejakú komerčnú činnosť, ale na prilepšenie čerstvými mňamkotami to stačí.
+<!--more-->
 
 ![zimy salat vo foliovniku](https://garubasro.github.io/Nova_farma/img/foliak-14-23.jpeg)
 

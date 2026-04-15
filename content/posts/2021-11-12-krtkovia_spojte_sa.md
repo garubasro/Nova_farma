@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/nasa-mlada-cvikla.png"
 ---
 
 Ako snáď viete, naše políčko obhospodárujeme prírode blízkym spôsobom. Nepoužívame žiadne chemikálie, do pôdy sa snažíme dodať čo najviac organickej hmoty. Dlhé desaťročia do tejto pôdy "súdruhovia" nič nedali, len brali a brali a brali...
+<!--more-->
 
 Naše už 8 ročné snaženie sa ukazuje. V pôde máme živo, konečne vidíme dážďovky. Ale nie len my sme sa o nich dozvedeli.
 

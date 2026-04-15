@@ -5,6 +5,7 @@ thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
 ---
 
 Jar je plnom prúde, všetko pučí, raší, zo zeme sa tlačí. Úplna radosť.
+<!--more-->
 
 Zaradili sa nám ďaľšie zeleninky. Okrem listového šalátového mixu, ktorý už poznáte z našej pouky (a vašej kuchyne), pribudla aj "klasika" = hlávkový šalát. Ale nie je to hocijaký. Super rýchly, chrumkavý, bohatý, vlnitý.... Proste žiadna nuda. Uznajte sami, veď názov odrody vraví všetko sám za seba - Kráľ Mája.
 
