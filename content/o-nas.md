@@ -1,8 +1,8 @@
 ---
-title: O nás
-summary: o-nas
-url: /o-nas/
-layout: page
+title: "O nás"
+layout: "page"
+url: "/o-nas/"
+summary: "o-nas"
 ---
 
 ## Sme mestská farma v Bratislave
@@ -11,14 +11,13 @@ Sme rodinná farma v Bratislave — áno, aj v Bratislave ľudia chcú a vedia p
 
 Veríme, že **do pôdy treba dávať dobré a vhodné veci**, aby sme mohli z nej brať chutné a zdravé plodiny. Nepoužívame žiadnu chémiu.
 
-![Mestskí farmári](https://garubasro.github.io/Nova_farma/img/mydvaja.jpg "Mestskí farmári")
+![Mestskí farmári](https://garubasro.github.io/Nova_farma/img/mydvaja.jpg)
 
 ## Ako si zeleninu kúpiť?
 
 Neprevádzkujeme obchod ani e-shop. Zeleninu si u nás nemôžete objednať kliknutím — ale stačí jedna správa a dohodneme sa. Predaj prebieha formou **predaja z dvora**, osobný odber po dohode.
 
 **Napíšte nám:**
-
 - 📲 WhatsApp / SMS / Telefonicky: [0902 192 892](tel:+421902192892)
 - 📧 Email: [garuba.sro@gmail.com](mailto:garuba.sro@gmail.com)
 - 👥 [Facebook Messenger](https://www.facebook.com/MestskaFarma)
