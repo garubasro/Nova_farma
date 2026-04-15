@@ -17,10 +17,13 @@ params:
   keywords: [zelenina, bratislava, farma, čerstvá zelenina, lokálne potraviny, predaj z dvora]
   author: "Mestská Farma Bratislava"
   images: ["/img/mydvaja.jpg"]
+  logo:
+    image: "https://garubasro.github.io/Nova_farma/img/Logo-mensie.png"
+    alt: "Mestská Farma Bratislava"
 
   # PaperMod display mode
   defaultTheme: light
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
