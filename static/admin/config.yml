@@ -21,24 +21,7 @@ collections:
       - { label: "Nadpis", name: "title", widget: "string" }
       - { label: "Dátum publikovania", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD.MM.YYYY", time_format: false }
       - { label: "Krátky popis (pre náhľad)", name: "description", widget: "text", required: false }
-      - label: "Titulný obrázok"
-        name: "cover"
-        widget: "object"
-        required: false
-        fields:
-          - { label: "Obrázok", name: "image", widget: "image", required: false }
-          - { label: "Popis obrázka", name: "alt", widget: "string", required: false }
-      - label: "Kategória"
-        name: "categories"
-        widget: "select"
-        multiple: true
-        required: false
-        options:
-          - { label: "Pole a záhrada", value: "pole" }
-          - { label: "Fóliovník", value: "foliovnik" }
-          - { label: "Technika", value: "technika" }
-          - { label: "Úrodná správa", value: "urodna-sprava" }
-          - { label: "Nehody a škody", value: "nehody" }
+      - { label: "Titulný obrázok", name: "thumbnail", widget: "image", required: false }
       - { label: "Obsah článku", name: "body", widget: "markdown" }
 
   - name: "zelenina"
@@ -49,12 +32,7 @@ collections:
     fields:
       - { label: "Názov zeleniny", name: "title", widget: "string" }
       - { label: "Aktuálne dostupná?", name: "dostupna", widget: "boolean", default: false }
-      - label: "Obrázok"
-        name: "cover"
-        widget: "object"
-        required: false
-        fields:
-          - { label: "Obrázok", name: "image", widget: "image", required: false }
+      - { label: "Obrázok", name: "thumbnail", widget: "image", required: false }
       - { label: "Popis", name: "body", widget: "markdown" }
       - { label: "Orientačná cena", name: "cena", widget: "string", required: false, hint: "Napr. '2 €/zväzok' alebo 'podľa dohody'" }
       - { label: "Poradie zobrazenia", name: "weight", widget: "number", required: false }
