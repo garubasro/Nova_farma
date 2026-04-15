@@ -44,7 +44,7 @@ params:
     subtitle: |
       Pestujeme čerstvú zeleninu priamo v Bratislave — bez chémie, s láskou k pôde.
       Predaj z dvora, osobný odber po dohode.
-    imageUrl: "/img/mydvaja.jpg"
+    imageUrl: "https://garubasro.github.io/Nova_farma/img/mydvaja.jpg"
     imageWidth: 140
     imageHeight: 140
     imageTitle: "Mestskí farmári"
