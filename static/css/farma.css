@@ -34,10 +34,11 @@
 
 /* Hamburger - tri ciarky */
 .menu__btn-title {
+  background: transparent !important;
+  height: auto !important;
   display: flex !important;
   flex-direction: column !important;
   gap: 5px !important;
-  background: transparent !important;
   padding: 2px 0 !important;
 }
 
