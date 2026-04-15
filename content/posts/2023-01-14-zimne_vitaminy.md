@@ -1,9 +1,7 @@
 ---
 title: "Zimné vitamíny"
 date: 2023-01-14
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-  alt: "Zimné vitamíny"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
 categories: ["pole"]
 ---
 

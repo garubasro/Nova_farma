@@ -1,9 +1,7 @@
 ---
 title: "Bôb rastie aj kvitne"
 date: 2025-04-14
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/bob-kvet.jpg"
-  alt: "Bôb rastie aj kvitne"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/bob-kvet.jpg"
 categories: ["technika"]
 tags: ["NovinkyZpoľa"]
 ---

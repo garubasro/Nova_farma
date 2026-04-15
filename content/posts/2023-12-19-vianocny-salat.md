@@ -1,9 +1,7 @@
 ---
 title: "Vianočný šalát"
 date: 2023-12-19
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
-  alt: "Vianočný šalát"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
 categories: ["technika"]
 tags: ["NovinkyZpoľa"]
 ---

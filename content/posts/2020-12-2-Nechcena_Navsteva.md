@@ -2,9 +2,7 @@
 title: "Nechcená návšteva"
 date: 2020-12-02
 description: "Krádež na poli"
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-  alt: "Nechcená návšteva"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
 categories: ["technika"]
 ---
 

@@ -1,95 +1,61 @@
 baseURL: "https://garubasro.github.io/Nova_farma/"
 languageCode: "sk-SK"
 title: "Mestská Farma Bratislava"
-theme: "PaperMod"
+theme: "mainroad"
 pagination:
-  pagerSize: 8
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+Author:
+  name: "Mestská Farma Bratislava"
+
 params:
-  env: production
-  title: "Mestská Farma Bratislava"
   description: "Čerstvá zelenina priamo z bratislavského poľa. Pestujeme prírodným spôsobom, bez chémie."
-  keywords: [zelenina, bratislava, farma, čerstvá zelenina, lokálne potraviny, predaj z dvora]
-  author: "Mestská Farma Bratislava"
-  images: ["/img/mydvaja.jpg"]
+  copyright: "Mestská Farma Bratislava"
+  opengraph: true
+  schema: true
+  twitter_cards: false
+  readmore: false
+  authorbox: false
+  pager: true
+  post_meta: ["date", "categories"]
+  mainSections: ["posts"]
+  highlight_color: "#4a7c3f"
+
   logo:
-    image: "https://garubasro.github.io/Nova_farma/img/Logo-mensie.png"
-    alt: "Mestská Farma Bratislava"
-
-  # PaperMod display mode
-  defaultTheme: light
-  disableThemeToggle: true
-  ShowReadingTime: false
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: false
-  UseHugoToc: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
-
-  # Home page profile mode
-  profileMode:
-    enabled: true
+    image: "img/Logo-mensie.png"
     title: "Mestská Farma Bratislava"
-    subtitle: |
-      Pestujeme čerstvú zeleninu priamo v Bratislave — bez chémie, s láskou k pôde.
-      Predaj z dvora, osobný odber po dohode.
-    imageUrl: "https://garubasro.github.io/Nova_farma/img/mydvaja.jpg"
-    imageWidth: 140
-    imageHeight: 140
-    imageTitle: "Mestskí farmári"
-    buttons:
-      - name: "📲 Napísať na WhatsApp"
-        url: "https://wa.me/421902192892?text=Ahoj%2C+mám+záujem+o+čerstvú+zeleninu"
-      - name: "🥬 Čo pestujeme"
-        url: "https://garubasro.github.io/Nova_farma/zelenina/"
+    subtitle: "Čerstvá zelenina priamo z Bratislavy"
 
-  # Social icons in footer
-  socialIcons:
-    - name: "whatsapp"
-      url: "https://wa.me/421902192892"
-    - name: "instagram"
-      url: "https://www.instagram.com/mestska_farma"
-    - name: "facebook"
-      url: "https://www.facebook.com/MestskaFarma"
+  thumbnail:
+    visibility: ["list"]
 
-  # Cover images in post list
-  cover:
-    hidden: false
-    hiddenInList: false
-    hiddenInSingle: false
+  sidebar:
+    home: "right"
+    list: "right"
+    single: false
+    widgets: ["search", "recent", "categories", "social"]
 
-  # Edit links (disabled)
-  editPost:
-    disabled: true
-
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10
-    keys: ["title", "permalink", "summary", "content"]
+  widgets:
+    recent_num: 5
+    categories_counter: false
+    social:
+      cached: false
+      facebook: "MestskaFarma"
+      instagram: "mestska_farma"
+      custom:
+        - title: "WhatsApp"
+          url: "https://wa.me/421902192892"
+          icon: "whatsapp.svg"
 
 menu:
   main:
     - identifier: posts
-      name: "Zo záhrady"
+      name: "Zápisky zo záhrady"
       url: /posts/
       weight: 10
     - identifier: zelenina
@@ -105,12 +71,10 @@ menu:
       url: /kontakt/
       weight: 40
 
-# Taxonomy
 taxonomies:
   category: categories
   tag: tags
 
-# Output formats for Decap CMS
 outputs:
   home:
     - HTML

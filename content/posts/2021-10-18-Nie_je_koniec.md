@@ -1,9 +1,7 @@
 ---
 title: "Nie je všetkému koniec"
 date: 2021-10-18
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
-  alt: "Nie je všetkému koniec"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
 categories: ["tech, pole"]
 ---
 

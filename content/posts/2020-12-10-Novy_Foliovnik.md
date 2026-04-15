@@ -2,9 +2,7 @@
 title: "Nový foliovník"
 date: 2020-11-22
 description: "Stavba profi foliovníka"
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-  alt: "Nový foliovník"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
 categories: ["technika"]
 ---
 

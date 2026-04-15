@@ -1,9 +1,7 @@
 ---
 title: "Rozširujeme sa"
 date: 2021-04-22
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
-  alt: "Rozširujeme sa"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
 categories: ["technika"]
 ---
 

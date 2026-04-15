@@ -2,9 +2,7 @@
 title: "Foliovník (2.časť)"
 date: 2020-12-10
 description: "Stavba profi foliovníka"
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
-  alt: "Foliovník (2.časť)"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
 categories: ["technika"]
 ---
 

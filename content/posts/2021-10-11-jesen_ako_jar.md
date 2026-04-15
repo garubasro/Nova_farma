@@ -1,9 +1,7 @@
 ---
 title: "Jeseň ako jar?"
 date: 2021-10-11
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/cukety.png"
-  alt: "Jeseň ako jar?"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/cukety.png"
 categories: ["pole"]
 ---
 

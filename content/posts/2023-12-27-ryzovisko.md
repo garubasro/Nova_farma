@@ -1,9 +1,7 @@
 ---
 title: "Vzdáme to?"
 date: 2023-12-27
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
-  alt: "Vzdáme to?"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
 categories: ["technika"]
 tags: ["NovinkyZpoľa"]
 ---

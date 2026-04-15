@@ -1,9 +1,7 @@
 ---
 title: "Záhradníkov rok"
 date: 2025-10-30
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/kel.jpg"
-  alt: "Záhradníkov rok"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/kel.jpg"
 categories: ["technika"]
 tags: ["NovinkyZpoľa"]
 ---

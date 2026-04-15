@@ -1,9 +1,7 @@
 ---
 title: "Čo sa chystá? Voňavé goliere?Zelení vojaci? Krivý gazda? Poštársky šalát?"
 date: 2021-04-28
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
-  alt: "Čo sa chystá? Voňavé goliere?Zelení vojaci? Krivý gazda? Poštársky šalát?"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
 categories: ["pole"]
 ---
 

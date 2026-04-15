@@ -1,9 +1,7 @@
 ---
 title: "Omyl! Až teraz to rastie. Či?"
 date: 2022-07-13
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
-  alt: "Omyl! Až teraz to rastie. Či?"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
 categories: ["pole"]
 ---
 

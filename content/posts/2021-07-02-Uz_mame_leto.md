@@ -1,9 +1,7 @@
 ---
 title: "Už máme leto"
 date: 2021-07-02
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/salat2410212.jpg"
-  alt: "Už máme leto"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410212.jpg"
 categories: ["pole"]
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Rast investícií"
 date: 2021-10-12
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/rukola_tanier.jpg"
-  alt: "Rast investícií"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/rukola_tanier.jpg"
 categories: ["pole"]
 ---
 

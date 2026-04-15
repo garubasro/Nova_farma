@@ -1,9 +1,7 @@
 ---
 title: "Krtkovia všetkých krajín, spojte sa?"
 date: 2021-11-12
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/nasa-mlada-cvikla.png"
-  alt: "Krtkovia všetkých krajín, spojte sa?"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/nasa-mlada-cvikla.png"
 categories: ["pole"]
 ---
 

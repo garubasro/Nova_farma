@@ -1,9 +1,7 @@
 ---
 title: "Nová zelenina"
 date: 2021-05-12
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
-  alt: "Nová zelenina"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/salat2410214.jpg"
 categories: ["pole"]
 ---
 

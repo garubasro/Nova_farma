@@ -1,9 +1,7 @@
 ---
 title: "Poznaj svojho (ne)priateľa"
 date: 2021-04-29
-cover:
-  image: "https://garubasro.github.io/Nova_farma/img/salaty_v_riadku.jpg"
-  alt: "Poznaj svojho (ne)priateľa"
+thumbnail: "https://garubasro.github.io/Nova_farma/img/salaty_v_riadku.jpg"
 categories: ["pole"]
 ---
 
