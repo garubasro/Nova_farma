@@ -33,6 +33,13 @@
 }
 
 /* Hamburger - tri ciarky */
+.menu__btn {
+  background: transparent !important;
+  color: #333 !important;
+  width: auto !important;
+  padding: 8px !important;
+}
+
 .menu__btn-title {
   background: transparent !important;
   height: auto !important;
@@ -40,6 +47,7 @@
   flex-direction: column !important;
   gap: 5px !important;
   padding: 2px 0 !important;
+  text-align: left !important;
 }
 
 .menu__btn-title::before,
@@ -49,8 +57,8 @@
 
 .hbr {
   display: block !important;
-  width: 22px !important;
-  height: 2px !important;
+  width: 24px !important;
+  height: 3px !important;
   background: #333 !important;
-  border-radius: 1px !important;
+  border-radius: 2px !important;
 }
