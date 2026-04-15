@@ -25,3 +25,16 @@
 #whatsapp-float:hover {
   transform: scale(1.1) !important;
 }
+
+/* Custom social ikony - rovnaka velkost ako FB a Instagram */
+.widget__social-item svg {
+  width: 16px !important;
+  height: 16px !important;
+  vertical-align: middle;
+}
+
+/* Custom social ikony - rovnaka velkost ako FB a Instagram */
+.widget-social__link-icon {
+  width: 16px !important;
+  height: 16px !important;
+}
