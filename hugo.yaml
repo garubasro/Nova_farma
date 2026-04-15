@@ -57,6 +57,16 @@ params:
       cached: false
       facebook: "MestskaFarma"
       instagram: "mestska_farma"
+      custom:
+        - title: "WhatsApp"
+          url: "https://wa.me/421902192892"
+          icon: "whatsapp.svg"
+        - title: "Email"
+          url: "mailto:garuba.sro@gmail.com"
+          icon: "email.svg"
+        - title: "Telefón"
+          url: "tel:+421902192892"
+          icon: "phone.svg"
 
 menu:
   main:
