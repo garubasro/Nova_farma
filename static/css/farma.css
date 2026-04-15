@@ -26,7 +26,53 @@
   transform: scale(1.1) !important;
 }
 
-/* Custom social ikony */
+/* Zelena farma farba namiesto červenej Mainroad */
+.divider,
+.menu,
+.widget__title,
+.btn:hover,
+.menu__item:hover,
+.menu__item--active,
+.pagination__item:hover,
+.pagination__item--current,
+.tags__item:hover,
+.pager__link:hover,
+.logo__tagline,
+.blockquote,
+.toc__menu a,
+.content a,
+.authorbox__description a,
+.footer,
+.footer a:hover {
+  border-color: #4a7c3f !important;
+}
+
+.divider { background: #4a7c3f !important; }
+.menu { border-bottom-color: #4a7c3f !important; }
+.widget__title { border-bottom-color: #4a7c3f !important; }
+.btn:hover { background: #4a7c3f !important; }
+.menu__item:hover { background: #4a7c3f !important; }
+.menu__item--active { background: #4a7c3f !important; }
+.pagination__item:hover,
+.pagination__item--current { background: #4a7c3f !important; }
+.tags__item:hover { background: #4a7c3f !important; }
+.logo__tagline { color: #4a7c3f !important; border-top-color: #ebebeb !important; }
+.blockquote { border-left-color: #4a7c3f !important; }
+.toc__menu a { color: #4a7c3f !important; }
+.content a { color: #4a7c3f !important; }
+.content a:hover { color: #4a7c3f !important; }
+.meta a:hover { color: #4a7c3f !important; }
+a:hover { color: #4a7c3f !important; }
+.footer { background: #2a2a2a !important; border-top-color: #4a7c3f !important; }
+.widget-social__link:hover { background: #4a7c3f !important; }
+.btn { }
+.toc__title { background: #2a2a2a !important; }
+input[type=submit]:hover,
+input[type=reset]:hover { background: #4a7c3f !important; }
+.tags__badge { background: #4a7c3f !important; }
+:focus > .menu__btn-title { box-shadow: inset 0 0 1px 3px #4a7c3f !important; }
+.js .menu__btn--active { color: #4a7c3f !important; }
+.menu__link:hover { background: #4a7c3f !important; }
 .widget-social__link-icon {
   width: 16px !important;
   height: 16px !important;
