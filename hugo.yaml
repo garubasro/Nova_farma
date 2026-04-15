@@ -52,7 +52,7 @@ params:
       - name: "📲 Napísať na WhatsApp"
         url: "https://wa.me/421902192892?text=Ahoj%2C+mám+záujem+o+čerstvú+zeleninu"
       - name: "🥬 Čo pestujeme"
-        url: "/zelenina/"
+        url: "https://garubasro.github.io/Nova_farma/zelenina/"
 
   # Social icons in footer
   socialIcons:
