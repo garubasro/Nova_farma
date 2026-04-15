@@ -32,7 +32,12 @@
   height: 16px !important;
 }
 
-/* Hamburger menu - tmave ciarky na bielom pozadi loga */
+/* Hamburger menu - 3 tmave ciarky */
+.menu__btn {
+  padding: 10px !important;
+  background: transparent !important;
+}
+
 .menu__btn-title {
   background: #333 !important;
   display: block !important;
@@ -40,9 +45,21 @@
   width: 28px !important;
   border-radius: 2px !important;
   position: relative !important;
+  overflow: visible !important;
 }
 
-.menu__btn-title::before,
+.menu__btn-title::before {
+  content: '' !important;
+  background: #333 !important;
+  display: block !important;
+  height: 3px !important;
+  width: 28px !important;
+  border-radius: 2px !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: -9px !important;
+}
+
 .menu__btn-title::after {
   content: '' !important;
   background: #333 !important;
@@ -52,17 +69,5 @@
   border-radius: 2px !important;
   position: absolute !important;
   left: 0 !important;
-}
-
-.menu__btn-title::before {
-  top: -8px !important;
-}
-
-.menu__btn-title::after {
-  top: 8px !important;
-}
-
-.menu__btn {
-  padding: 10px !important;
-  margin: 4px !important;
+  top: 9px !important;
 }
