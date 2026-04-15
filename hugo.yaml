@@ -1,5 +1,6 @@
 baseURL: "https://garubasro.github.io/Nova_farma/"
-languageCode: "sk-SK"
+languageCode: "sk"
+defaultContentLanguage: "sk"
 title: "Mestská Farma Bratislava"
 theme: "mainroad"
 pagination:
@@ -54,10 +55,6 @@ params:
       cached: false
       facebook: "MestskaFarma"
       instagram: "mestska_farma"
-      custom:
-        - title: "WhatsApp"
-          url: "https://wa.me/421902192892"
-          icon: "whatsapp.svg"
 
 menu:
   main:
