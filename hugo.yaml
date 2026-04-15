@@ -33,6 +33,8 @@ params:
   post_meta: ["date"]
   mainSections: ["posts"]
   highlight_color: "#4a7c3f"
+  customCSS:
+    - "css/farma.css"
 
   logo:
     image: "img/Logo-mensie.png"
