@@ -23,7 +23,7 @@ Author:
 
 params:
   description: "Čerstvá zelenina priamo z bratislavského poľa. Pestujeme prírodným spôsobom, bez chémie."
-  copyright: "Mestská Farma Bratislava"
+  copyright: "Garuba s.r.o. | Mestská Farma Bratislava"
   opengraph: true
   schema: true
   twitter_cards: false
@@ -39,7 +39,7 @@ params:
   logo:
     image: "img/Logo-mensie.png"
     title: "Mestská Farma Bratislava"
-    subtitle: "Čerstvá zelenina priamo z Bratislavy"
+    subtitle: "Farma v meste je na mieste"
 
   thumbnail:
     visibility: ["list"]

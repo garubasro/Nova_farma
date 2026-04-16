@@ -51,8 +51,8 @@
 .menu { border-bottom-color: #4a7c3f !important; }
 .widget__title { border-bottom-color: #4a7c3f !important; }
 .btn:hover { background: #4a7c3f !important; }
-.menu__item:hover { background: #4a7c3f !important; }
-.menu__item--active { background: #4a7c3f !important; }
+.menu__item:hover { background: #2d5a24 !important; }
+.menu__item--active { background: #2d5a24 !important; }
 .pagination__item:hover,
 .pagination__item--current { background: #4a7c3f !important; }
 .tags__item:hover { background: #4a7c3f !important; }

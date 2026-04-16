@@ -9,24 +9,24 @@ Zeleninu predávame formou **predaja z dvora** — bez kamenného obchodu, bez e
 
 Funguje to jednoducho: napíšete alebo zavoláte, dohodneme sa na čase, mieste a množstve — a zeleninu si prídete vyzdvihnúť. Spontánne návštevy bez dohody nie sú možné, ale dohodnúť sa dá zvyčajne rýchlo.
 
-<div class="kontakt-box">
+---
 
-### 📲 WhatsApp (najrýchlejšie)
+**WhatsApp / SMS / Telefón**
+[0902 192 892](tel:+421902192892)
 
-<a href="https://wa.me/421902192892?text=Ahoj%2C+mám+záujem+o+čerstvú+zeleninu.+Čo+máte+práve+k+dispozícii%3F" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:0.5rem;background:#25D366;color:#fff;padding:0.7rem 1.4rem;border-radius:2rem;font-weight:600;text-decoration:none;margin:1rem 0;">
-📲 Otvoriť WhatsApp konverzáciu
-</a>
+**Email**
+[garuba.sro@gmail.com](mailto:garuba.sro@gmail.com)
 
-**Číslo:** [0902 192 892](tel:+421902192892)
+**Facebook**
+[facebook.com/MestskaFarma](https://www.facebook.com/MestskaFarma)
 
-</div>
-
-### Ďalšie možnosti
-
-- 📧 **Email:** [garuba.sro@gmail.com](mailto:garuba.sro@gmail.com)
-- 💬 **Facebook Messenger:** [facebook.com/MestskaFarma](https://www.facebook.com/MestskaFarma)
-- 📸 **Instagram:** [@mestska_farma](https://www.instagram.com/mestska_farma)
+**Instagram**
+[@mestska_farma](https://www.instagram.com/mestska_farma)
 
 ---
 
-> 💡 **Tip:** Ak nás nemáte uloženého v kontaktoch, po prvej správe si nás uložte — budete dostávať naše pravidelné ponuky čerstvej zeleniny priamo na WhatsApp.
+> Ak nás nemáte uloženého v kontaktoch, po prvej správe si nás uložte — budete dostávať naše pravidelné ponuky čerstvej zeleniny priamo na WhatsApp.
+
+---
+
+*Prevádzkovateľ: Garuba s.r.o.*
