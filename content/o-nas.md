@@ -23,3 +23,11 @@ Neprevádzkujeme obchod ani e-shop. Zeleninu si u nás nemôžete objednať klik
 - 👥 [Facebook Messenger](https://www.facebook.com/MestskaFarma)
 
 Sledujte nás aj na [Instagrame @mestska_farma](https://www.instagram.com/mestska_farma) kde pravidelne zverejňujeme čo práve rastie a čo je k dispozícii.
+
+---
+
+## Viac než len zelenina
+
+Okrem pestovania sa venujeme aj vzdelávaniu, komunitným aktivitám a osvete v oblasti udržateľného hospodárenia s pôdou. Tieto nekomercné aktivity zastrešuje občianske združenie [Tchela](https://tchela.sk.eu.org/).
+
+Ak vás táto oblasť zaujíma — pozrite si [tchela.sk.eu.org](https://tchela.sk.eu.org/).
