@@ -1,13 +1,13 @@
 ---
 title: "Jeseň ako jar?"
 date: 2021-10-11
-thumbnail: "https://garubasro.github.io/Nova_farma/img/cukety.png"
+thumbnail: "https://www.mestskafarmaba.sk/img/cukety.png"
 ---
 
 Troch mätúci nadpis, áno. Avšak keď som dnes na poli chrúmal čersvté hrášky, a bolo nízke chladné slniečko, tak som si tak pripadal.
 <!--more-->
 
-![hrasok_jesen.jpg](https://garubasro.github.io/Nova_farma/img/hrasok_jesen.jpg)
+![hrasok_jesen.jpg](https://www.mestskafarmaba.sk/img/hrasok_jesen.jpg)
 Ako na jar.
 
 Len pre detailuchtivých:

@@ -30,7 +30,7 @@
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
-	<link rel="icon" type="image/png" href="https://garubasro.github.io/Nova_farma/img/Logo-mensie.png">
+	<link rel="icon" type="image/png" href="https://www.mestskafarmaba.sk/img/Logo-mensie.png">
 	{{- $server := "" }}
 	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
 		{{ $server = hugo.IsServer }}

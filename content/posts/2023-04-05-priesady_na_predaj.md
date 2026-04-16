@@ -1,7 +1,7 @@
 ---
 title: "Adoptuj si priesady"
 date: 2023-04-05
-thumbnail: "https://garubasro.github.io/Nova_farma/img/priesadky3.jpg"
+thumbnail: "https://www.mestskafarmaba.sk/img/priesadky3.jpg"
 tags: ["NovinkyZpoľa", "Porovnanie"]
 ---
 
@@ -14,8 +14,8 @@ Priesada za EUR 0,40.
 
 Možný aj mix odrôd.
 
-![Arctic King](https://garubasro.github.io/Nova_farma/img/priesada_arctic_king.jpg)
-![Cervený listový](https://garubasro.github.io/Nova_farma/img/priesada_cerveny_listovy.jpg)
-![Priesady 1](https://garubasro.github.io/Nova_farma/img/priesadky1.jpg)
-![Priesady 2](https://garubasro.github.io/Nova_farma/img/priesadky2.jpg)
-![Priesady 3](https://garubasro.github.io/Nova_farma/img/priesadky3.jpg)
+![Arctic King](https://www.mestskafarmaba.sk/img/priesada_arctic_king.jpg)
+![Cervený listový](https://www.mestskafarmaba.sk/img/priesada_cerveny_listovy.jpg)
+![Priesady 1](https://www.mestskafarmaba.sk/img/priesadky1.jpg)
+![Priesady 2](https://www.mestskafarmaba.sk/img/priesadky2.jpg)
+![Priesady 3](https://www.mestskafarmaba.sk/img/priesadky3.jpg)

@@ -11,7 +11,7 @@ Sme rodinná farma v Bratislave — áno, aj v Bratislave ľudia chcú a vedia p
 
 Veríme, že **do pôdy treba dávať dobré a vhodné veci**, aby sme mohli z nej brať chutné a zdravé plodiny. Nepoužívame žiadnu chémiu.
 
-![Mestskí farmári](https://garubasro.github.io/Nova_farma/img/mydvaja.jpg)
+![Mestskí farmári](https://www.mestskafarmaba.sk/img/mydvaja.jpg)
 
 ## Ako si zeleninu kúpiť?
 

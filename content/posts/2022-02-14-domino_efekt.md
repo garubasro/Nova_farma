@@ -1,7 +1,7 @@
 ---
 title: "Domino efekt"
 date: 2022-02-14
-thumbnail: "https://garubasro.github.io/Nova_farma/img/redkovky.jpg"
+thumbnail: "https://www.mestskafarmaba.sk/img/redkovky.jpg"
 tags: ["NovinkyZpoľa"]
 ---
 
@@ -16,4 +16,4 @@ Alebo nie?
 
 Sledujte nás, dozviete sa viac. Nabudúce.
 
-![domino-vysadba](https://garubasro.github.io/Nova_farma/img/domino-vysadba.jpg)
+![domino-vysadba](https://www.mestskafarmaba.sk/img/domino-vysadba.jpg)

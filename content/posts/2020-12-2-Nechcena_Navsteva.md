@@ -2,7 +2,7 @@
 title: "Nechcená návšteva"
 date: 2020-12-02
 description: "Krádež na poli"
-thumbnail: "https://garubasro.github.io/Nova_farma/img/contact-bg.jpg"
+thumbnail: "https://www.mestskafarmaba.sk/img/contact-bg.jpg"
 ---
 
 V nedeľu sme šli kuknúť na pole. Len tak, nič na práci, bolo pekne. V sobotu sme tam neboli, boli iné povinnosti, že dáme si len takú prechádzku po okoli....
@@ -20,5 +20,5 @@ Už som len čakal otázku, či to tam naozaj bolo, alebo či som si to neukrado
 Našťastie to nikto nevyslovil.
 
 
-![solar-stojan](https://garubasro.github.io/Nova_farma/img/solar-stojan.jpg)
-![postrihane-pletivo](https://garubasro.github.io/Nova_farma/img/rozstrihane-pletivo.jpg)
+![solar-stojan](https://www.mestskafarmaba.sk/img/solar-stojan.jpg)
+![postrihane-pletivo](https://www.mestskafarmaba.sk/img/rozstrihane-pletivo.jpg)

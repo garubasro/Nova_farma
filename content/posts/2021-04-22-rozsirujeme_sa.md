@@ -1,7 +1,7 @@
 ---
 title: "Rozširujeme sa"
 date: 2021-04-22
-thumbnail: "https://garubasro.github.io/Nova_farma/img/rastuca-cuketa.png"
+thumbnail: "https://www.mestskafarmaba.sk/img/rastuca-cuketa.png"
 ---
 
 Teda, akože nie osobne, ale rozširujeme počet produkčných hriadok.

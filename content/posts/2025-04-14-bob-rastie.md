@@ -1,7 +1,7 @@
 ---
 title: "Bôb rastie aj kvitne"
 date: 2025-04-14
-thumbnail: "https://garubasro.github.io/Nova_farma/img/bob-kvet.jpg"
+thumbnail: "https://www.mestskafarmaba.sk/img/bob-kvet.jpg"
 tags: ["NovinkyZpoľa"]
 ---
 
@@ -14,5 +14,5 @@ na chuť mladých plodov
 na leto
 
 
-![Bob Kvet](https://garubasro.github.io/Nova_farma/img/bob-kvet.jpg)
-![Bob rastie](https://garubasro.github.io/Nova_farma/img/bob-rast.jpg)
+![Bob Kvet](https://www.mestskafarmaba.sk/img/bob-kvet.jpg)
+![Bob rastie](https://www.mestskafarmaba.sk/img/bob-rast.jpg)
