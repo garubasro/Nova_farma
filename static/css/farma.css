@@ -107,7 +107,18 @@ input[type=reset]:hover { background: #4a7c3f !important; }
 .hbr {
   display: block !important;
   width: 24px !important;
-  height: 3px !important;
-  background: #333 !important;
+  height: 2px !important;
+  background: #aaa !important;
   border-radius: 2px !important;
+}
+
+.hbr-label {
+  display: block !important;
+  color: #aaa !important;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  margin-top: 3px !important;
+  line-height: 1 !important;
 }
