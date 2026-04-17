@@ -108,13 +108,13 @@ input[type=reset]:hover { background: #4a7c3f !important; }
   display: block !important;
   width: 24px !important;
   height: 2px !important;
-  background: #aaa !important;
+  background: #fff !important;
   border-radius: 2px !important;
 }
 
 .hbr-label {
   display: block !important;
-  color: #aaa !important;
+  color: #fff !important;
   font-size: 10px !important;
   font-weight: 700 !important;
   text-transform: uppercase !important;
